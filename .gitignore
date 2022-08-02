@@ -20,3 +20,4 @@ Source/.dockerignore
 Source/docker-compose.dcproj
 Source/docker-compose.override.yml
 Source/docker-compose.yml
+**/.vscode/
