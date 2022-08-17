@@ -83,12 +83,3 @@ class ImplementationClass : ISampleInterface
 // Record type
 /***************************************************************************/
 public record Person(string FirstName, string LastName);
-
-public class Program
-{
-    // Constructor
-    private static void Main(string[] args)
-    {
-
-    }
-}
